@@ -1,0 +1,3 @@
+D:/Code/CLionProjects/SecureFile/cmake-build-debug/CMakeFiles/SecureFile.dir
+D:/Code/CLionProjects/SecureFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/CLionProjects/SecureFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
