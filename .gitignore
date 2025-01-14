@@ -1,0 +1,46 @@
+# 编译生成的文件
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.exe
+
+# 构建目录
+/build/
+/dist/
+/bin/
+/obj/
+
+# 日志和临时文件
+*.log
+*.tmp
+*.swp
+*.bak
+*.d
+
+# IDE 和工具配置文件
+# Visual Studio
+.vscode/
+*.vcxproj*
+*.user
+*.suo
+*.ncb
+*.sdf
+*.sln.docstates
+
+# CLion
+.idea/
+cmake-build-*/
+
+# macOS 系统文件
+.DS_Store
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+
+# 自定义文件和目录
+# 如果项目生成一些敏感文件或需要忽略的目录，可以在此处添加
+securefile_config.json
+test_data/
